@@ -1,0 +1,28 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "my todo list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "my",
+    "second",
+    "app"
+  ],
+  "author": "ojei kelvin",
+  "license": "ISC",
+  "engines": {
+    "node": "16.15.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.6.0",
+    "node": "^18.7.0",
+    "nodemon": "^2.0.19"
+  }
+}
